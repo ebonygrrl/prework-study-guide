@@ -16,6 +16,9 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 To use, open index.html in your favorite browser. If you're using Chrome, right click on the page and select "Inspect" to open the Developer Tool. Last, click on the "Console" tab and watch the magic.
 
+![alt Prework Study Guide screenshot](./assets/images/psg-ss-1.jpg)
+![alt web page with context menu screenshot](./assets/images/psg-ss-2.jpg)
+![alt web page with developer tool screenshot](./assets/images/psg-ss-3.jpg)
 
 Provide instructions and examples for use. Include screenshots as needed.
 
